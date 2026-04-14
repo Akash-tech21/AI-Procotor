@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1775804418892,
+      "tag": "0000_medical_frog_thor",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1775805687260,
+      "tag": "0001_long_leopardon",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1775807361563,
+      "tag": "0002_fair_lester",
+      "breakpoints": true
+    }
+  ]
+}
